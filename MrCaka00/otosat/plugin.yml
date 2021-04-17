@@ -1,0 +1,9 @@
+name: otosat
+main: otosat\main
+api: 3.11.1
+version: 1.0
+author: MrCaka00
+
+commands:
+ otosat:
+  description: §fOtosat Menüsünü Açar
